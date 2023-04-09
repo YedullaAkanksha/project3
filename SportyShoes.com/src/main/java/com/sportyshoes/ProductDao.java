@@ -1,4 +1,4 @@
-package com.prajval.phase3;
+package com.sportyshoes;
 
 import java.util.Date;
 import java.util.List;
