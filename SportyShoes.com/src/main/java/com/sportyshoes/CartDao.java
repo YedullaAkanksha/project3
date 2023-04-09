@@ -1,4 +1,4 @@
-package com.prajval.phase3;
+package com.sportyshoes;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
