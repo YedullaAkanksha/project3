@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Lms1\project3\SportyShoes.com\.metadata\.plugins\org.eclipse.jdt.core

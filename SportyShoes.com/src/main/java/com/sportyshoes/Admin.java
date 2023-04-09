@@ -1,4 +1,4 @@
-package com.prajval.phase3;
+package com.sportyshoes;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
